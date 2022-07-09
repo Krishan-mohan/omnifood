@@ -18,7 +18,7 @@ The project was implemented ["Build Responsive Real-World Websites with HTML and
 
 ## 💻 Demonstration
 
-The project is available at [krishan-mohan.github.io/omnifood/](krishan-mohan.github.io/omnifood/)
+The project is available at [Omnifood/](https://krishan-mohan.github.io/omnifood/)
 
 
 ## 🛠️ Technologies Used:-
